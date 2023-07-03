@@ -100,6 +100,9 @@ setup(
             'templates/*',
             'static/*/*',
         ]},
+        'browsepy.plugin.favorite': [
+            'static/*/*',
+        ]},
     install_requires=['flask', 'unicategories'] + extra_requires,
     test_suite='browsepy.tests',
     test_runner='browsepy.tests.runner:DebuggerTextTestRunner',
