@@ -1,0 +1,7 @@
+a.button.fav:after {
+  content: "☆";
+}
+
+a.button.unfav:after {
+  content: "★";
+}
