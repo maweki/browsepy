@@ -99,7 +99,7 @@ setup(
         'browsepy.plugin.player': [
             'templates/*',
             'static/*/*',
-        ]},
+        ],
         'browsepy.plugin.favorite': [
             'static/*/*',
         ]},
